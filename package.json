@@ -1,0 +1,7 @@
+{
+    "dependencies": {},
+    "description": "Test repository for git-upm-publisher",
+    "displayName": "Git UPM Publisher Test",
+    "name": "com.starikcetin.gitupmpublisher.test",
+    "version": "0.0.1"
+}
